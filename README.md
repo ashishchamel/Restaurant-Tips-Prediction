@@ -129,20 +129,19 @@ Tip = 0.803817
 ---
 
 ### 📂 Repository Structure
+
 ---
 
 Restaurant-Tips-Prediction/
 ├── data/
-│ ├── Restaurant-tips-dataset.xlsx
-│ └── sample_restaurant_tips.csv
+│   ├── Restaurant-tips-dataset.xlsx
+│   └── sample_restaurant_tips.csv
 ├── assets/
-│ ├── pivot-charts.png
-│ ├── regression-summary.png
-│ └── predicted-vs-actual.png
+│   ├── pivot-charts.png
+│   ├── regression-summary.png
+│   └── predicted-vs-actual.png
 ├── Restaurant-tips-ashish-COMPLETE-PROJECT2.xlsb
 ├── 02_predicting_restaurant_tips_problem_statement.pdf
 └── README.md
 
 ---
-
-
