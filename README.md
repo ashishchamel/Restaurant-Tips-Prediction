@@ -98,10 +98,11 @@ Tip = 0.803817
 
   <br><br>
 
-  <img src="assets/regression-summary.png" alt="Regression Summary" width="700"/><br>
+  <img src="assets/regression-summary.png" alt="Regression Summary" width="700" style="margin-bottom:-50px;"/><br>
   <em>Figure 2: Regression output (coefficients, R²)</em>
 
 </div>
+
 
 ---
 
