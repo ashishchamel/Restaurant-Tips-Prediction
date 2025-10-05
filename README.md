@@ -91,16 +91,17 @@ Tip = 0.803817
 
 ### 📈 Visuals
 
-<p align="center">
-  <img src="assets/predicted-vs-actual.png" alt="Predicted vs Actual" width="700"/>
-  <br><em>Figure: Predicted vs Actual Tips</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="assets/regression-summary.png" alt="Regression Summary" width="700"/>
-  <br><em>Figure: Regression output (coefficients, R²)</em>
-</p>
+  <img src="assets/predicted-vs-actual.png" alt="Predicted vs Actual Tips" width="700"/><br>
+  <em>Figure 1: Predicted vs Actual Tips</em>
 
+  <br><br>
+
+  <img src="assets/regression-summary.png" alt="Regression Summary" width="700"/><br>
+  <em>Figure 2: Regression output (coefficients, R²)</em>
+
+</div>
 
 ---
 
