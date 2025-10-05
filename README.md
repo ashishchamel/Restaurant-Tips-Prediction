@@ -129,8 +129,8 @@ Tip = 0.803817
 ---
 
 ### 📂 Repository Structure
-
 ---
+
 Restaurant-Tips-Prediction/
 ├── data/
 │ ├── Restaurant-tips-dataset.xlsx
@@ -142,6 +142,7 @@ Restaurant-Tips-Prediction/
 ├── Restaurant-tips-ashish-COMPLETE-PROJECT2.xlsb
 ├── 02_predicting_restaurant_tips_problem_statement.pdf
 └── README.md
---- 
+
+---
 
 
