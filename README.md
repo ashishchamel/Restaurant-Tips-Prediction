@@ -130,7 +130,7 @@ Tip = 0.803817
 
 ### 📂 Repository Structure
 
----
+```
 
 Restaurant-Tips-Prediction/
 ├── data/
@@ -144,4 +144,4 @@ Restaurant-Tips-Prediction/
 ├── 02_predicting_restaurant_tips_problem_statement.pdf
 └── README.md
 
----
+```
